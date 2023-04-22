@@ -1,0 +1,11 @@
+git init
+
+git config user.name 'jeungse'
+git config user.email 'gmlwn293@naver.com'
+
+gitHub에 리파지토리 만들기
+https://github.com/jeungse/photography_cra.git
+
+git remote add origin https://github.com/jeungse/photography_cra.git
+
+git add .
